@@ -1,6 +1,6 @@
 {application, eredis_pool,
  [
-  {description, ""},
+  {description, "pool for eredis"},
   {vsn, "1.1"},
   {registered, []},
   {applications, [
